@@ -1,0 +1,8 @@
+Flask==3.0.3
+Flask-SocketIO==5.3.6
+python-binance==1.0.19
+numpy==1.26.4
+python-engineio==4.9.1
+python-socketio==5.11.2
+Werkzeug==3.0.2
+gunicorn==22.0.0
